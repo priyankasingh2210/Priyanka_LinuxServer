@@ -9,6 +9,8 @@ our on of your existing web applications onto it.
 
 * **Public IP Address:** 18.221.232.119
 * **Accessible SSH port:** 2200
+* **URL:** ec2-18-221-232-119.us-east-2.compute.amazonaws.com
+* **Grader name:** grader
 
 ### Linux Server Configuration and Software Installed
 
