@@ -242,8 +242,6 @@ Source: [Flask Documentation](http://flask.pocoo.org/docs/0.12/installation/)
     </Directory>
   </VirtualHost>
   ```
-Source: [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)
-
 #### 16. Restart Apache to launch the app
 
    ```
